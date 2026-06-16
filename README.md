@@ -14,18 +14,22 @@ Dabei beschäftige ich mich aktuell intensiv mit:
 
 ### Frontend
 
-<img src="./img/html.svg" height="20px">
-<img src="./img/css.svg" height="20px">
-<img src="./img/javascript.svg" height="20px">
-<img src="./img/typescript.svg" height="20px">
-<img src="./img/angular.svg" height="20px">
+<div display="flex" justify-content="flex-start" gap="16px">
+    <img src="./img/html.svg" height="26px">
+    <img src="./img/css.svg" height="26px">
+    <img src="./img/javascript.svg" height="26px">
+    <img src="./img/typescript.svg" height="26px">
+    <img src="./img/angular.svg" height="26px">
+</div>
 
 ### Tools & Software
 
-<img src="./img/figma.svg" height="20px">
-<img src="./img/firebase.svg" height="20px">
-<img src="./img/vscode.svg" height="20px">
-<img src="./img/git.svg height="20px">
+<div display="flex" justify-content="flex-start" gap="16px">
+    <img src="./img/figma.svg" height="26px">
+    <img src="./img/firebase.svg" height="26px">
+    <img src="./img/vscode.svg" height="26px">
+    <img src="./img/git.svg" height="26px">
+</div>
 
 ---
 
