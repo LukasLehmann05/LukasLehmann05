@@ -35,6 +35,6 @@ Dabei beschäftige ich mich aktuell intensiv mit:
 
 # Kontakt
 
-   - 🌐 [Portfolio](lukas-lehmann.eu)
+   - 🌐 [Portfolio](https://lukas-lehmann.eu/)
    - 💼 [LinkedIn](https://www.linkedin.com/in/lukas-lehmann-b7b5683bb/)
    - 📨 [E-Mail](mailto:lukaslehmann05@protonmail.com)
